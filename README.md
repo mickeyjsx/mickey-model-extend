@@ -49,3 +49,10 @@ Behaviour:
 - `model.state` will be overrided by latter model if it isn't an object
 - `model[subscriptions|enhancers]` will be merged to a array
 - reducer functions will be merge with `Object.assign`
+
+
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/mickeyjsx/mickey-model-extend/issues/new).
